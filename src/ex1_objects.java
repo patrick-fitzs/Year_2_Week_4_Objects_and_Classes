@@ -1,4 +1,5 @@
 public class ex1_objects {
+  // Testing for GitHub
     public void main(String[] args){
 
         // new door object
